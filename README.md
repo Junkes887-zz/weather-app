@@ -3,7 +3,7 @@ Aplicação quem mostra a temperatura de determinada cidade
 
 ### Intalação
 ```bash
-npm istall
+npm install
 npm start #Roda a aplicação
 ```
 ### weather-app
