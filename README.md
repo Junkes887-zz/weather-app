@@ -1,12 +1,12 @@
 # weather-app
-Aplicação quem mostra a temperatura de determinada cidade
+Aplicação quem mostra o clima atual de determinada cidade
 
-### Intalação
+### Instalar
 ```bash
 npm install
 npm start #Roda a aplicação
 ```
-### weather-app
+### Como usar
 Para utilizar e so passar o nome da cidade na porta 3333
 ```bash
 localhost:3333/city
